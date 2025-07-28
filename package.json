@@ -1,0 +1,24 @@
+{
+  "name": "ai-tutor-landing-page",
+  "version": "1.0.0",
+  "description": "AI Tutor iOS app landing page",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "ai-tutor",
+    "landing-page",
+    "github-pages",
+    "tailwind-css"
+  ],
+  "author": "Daniel Ennis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielennis000/test-vibecoding.git"
+  },
+  "homepage": "https://danielennis000.github.io/test-vibecoding"
+}

@@ -1,0 +1,25 @@
+Great! You want to build a simple frontend landing page for an iOS AI tutor app using Cursor, Tailwind CSS, and deploy it to GitHub Pages with a GitHub repo. Here's a clear plan:
+
+Set up GitHub repo
+Create a new GitHub repository (public or private).
+Initialize with a README.md.
+Initialize Cursor project
+Use Cursor to scaffold a new frontend project.
+Choose a simple React or vanilla JS template (Cursor supports React well).
+Add Tailwind CSS
+Install Tailwind CSS dependencies.
+Configure Tailwind with a minimal config file.
+Add Tailwind directives to your CSS.
+Build landing page
+Create a simple landing page with:
+App name and tagline
+Brief description of AI tutor features
+Call-to-action button (e.g., "Download on App Store")
+Responsive layout using Tailwind utilities
+Test locally
+Run the project locally to verify layout and responsiveness.
+Deploy to GitHub Pages
+Configure GitHub Pages in repo settings to serve from main branch or /docs folder.
+Add deployment script (e.g., using gh-pages npm package) or push built static files to the correct branch/folder.
+Document repo
+Add instructions in README for local dev and deployment.
